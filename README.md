@@ -1,9 +1,8 @@
 # Entra-ID
+Microsoft Entra admin center. This is the cloud version of Active Directory. I’m creating a new user for the organization.
 
 <img width="280" height="75" alt="image" src="https://github.com/user-attachments/assets/f6dfbf4f-5f91-4aaa-a891-68997001e47e" />
 
-Microsoft Entra admin center. This is the cloud version of Active Directory. I’m creating a new user for the organization.
-<img width="280" height="75" alt="image" src="https://github.com/user-attachments/assets/7210684b-161f-4ecb-9e6c-5960deab2fb5" />
 
 I’m creating a user named John Smith with the logon [jSmith@houtech272.onmicrosoft.com](mailto:jSmith@houtech272.onmicrosoft.com).
 <img width="1912" height="936" alt="image" src="https://github.com/user-attachments/assets/acad80a0-b3d9-4fa7-96d5-4f9b75bfd416" />
